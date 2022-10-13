@@ -11,3 +11,6 @@
 
 # Стек технологий:
 Pandas, matplotlib, numpy, seaborn, scikit-learn, catboost.
+
+# Статус проекта:
+Завершен.
